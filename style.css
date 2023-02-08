@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    font-size: 300 px;
+    font-weight: bolder;
+    font-family: 'Major Mono Display', monospace;
+    font-family: 'Work Sans', sans-serif;
+    color: darkgreen;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    border-style: dashed;
+    border-color: white;
+    border-width: 5px;
+}
+
+body {
+    background-color: lightgreen;
+}
+
+li {
+    font-family: 'Major Mono Display', monospace;
+    font-family: 'Work Sans', sans-serif;
+    color: white;
+    font-weight: bolder;
+    padding: 5px;
+    font-size: 1.5em;
+}
